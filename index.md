@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Clayton Machado Ilibio
 
-You can use the [editor on GitHub](https://github.com/claytonmi/claytonmi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Resumo
+Estudante em análise e desenvolvimento de sistemas com objetivo
+de criar uma carreira na área de testes e qualidade de software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experiência
+- #### WMW Systems Ltda.
+1 ano
+Auxiliar em teste de software
+setembro de 2018 - Present 
+Tubarão, Santa Catarina
+Experiências:
+- Teste de funcionalidade
+- Teste de performance
+- Teste de usabilidade
+- Teste de regressão
+- Teste de manutenção
 
-### Markdown
+#### Estagiário em teste de software
+abril de 2018 - agosto de 2018 (5 meses)
+Tubarão e Região, Brasil
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Água Mineral Gravatal
+Técnico de suporte em TI
+setembro de 2015 - abril de 2018 (2 anos 8 meses)
+Gravatal, SC
+Suporte aos usuário de tecnologia da informação, manutenção em
+computadores e redes locais.
 
-```markdown
-Syntax highlighted code block
+#### Coan Indústria Gráfica
+Estágio de tecnologia da informação
+julho de 2016 - janeiro de 2017 (7 meses)
+Tubarão e Região, Brasil
+- Suporte aos usuário
+- Manutenção de computadores
+- Manutenção de redes locais
+Experiência prática no diagnóstico e solução de problemas de computador
 
-# Header 1
-## Pagina de teste na Campus party
-### Testes de site
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/claytonmi/claytonmi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Genesio A Mendes
+Auxiliar de produção
+junho de 2012 - dezembro de 2014 (2 anos 7 meses)
+Tubarão e Região, Brasil
+Separação de mercadorias.
