@@ -1,4 +1,4 @@
-<script src='hides.js'></script>
+<script src='hide.js'></script>
 
 
 ## Clayton Machado Ilibio
