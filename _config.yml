@@ -1,7 +1,6 @@
 show_downloads : false
 is_project_page: false
 title : Clayton Machado Ilibio
-descrição : Currículo
-link: https://www.linkedin.com/in/clayton-machado-ilibio/
+descrição : Currículo <a href="https://www.linkedin.com/in/clayton-machado-ilibio/">Linkedin</a> 
 theme: jekyll-theme-cayman
 
