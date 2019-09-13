@@ -1,8 +1,6 @@
 
 
 
-## Clayton Machado Ilibio
-
 #### Resumo
 Estudante em análise e desenvolvimento de sistemas com objetivo
 de criar uma carreira na área de testes e qualidade de software.
