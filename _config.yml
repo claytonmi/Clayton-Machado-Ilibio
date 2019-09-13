@@ -1,5 +1,5 @@
 show_downloads : false
-logo: C:\Users\clayt\Downloads\Downloads\ClaytonMachado.png
+logo: \img\ClaytonMachado.png
 title : Clayton Machado Ilibio
 descrição : Currículo
 theme: jekyll-theme-minimal
