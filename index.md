@@ -1,4 +1,4 @@
-<script src='hide.js'></script>
+
 
 
 ## Clayton Machado Ilibio
