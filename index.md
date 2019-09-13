@@ -44,4 +44,3 @@ junho de 2012 - dezembro de 2014 (2 anos 7 meses)
 Tubarão e Região, Brasil
 Separação de mercadorias.
 
-<script src='hide.js'></script>
