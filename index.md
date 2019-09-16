@@ -6,7 +6,7 @@ Estudante em análise e desenvolvimento de sistemas com objetivo
 de criar uma carreira na área de testes e qualidade de software.
 
 ## Experiência
-- #### WMW Systems Ltda.
+#### WMW Systems Ltda.
 1 ano
 Auxiliar em teste de software
 setembro de 2018 - Present 
