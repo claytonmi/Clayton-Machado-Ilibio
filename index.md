@@ -6,6 +6,7 @@ Estudante em análise e desenvolvimento de sistemas com objetivo
 de criar uma carreira na área de testes e qualidade de software.
 
 ## Experiência
+
 #### WMW Systems Ltda.
 1 ano
 Auxiliar em teste de software
@@ -43,4 +44,11 @@ Auxiliar de produção
 junho de 2012 - dezembro de 2014 (2 anos 7 meses)
 Tubarão e Região, Brasil
 Separação de mercadorias.
+
+## Freelancer
+
+#### Testador freelancer na plataforma Crowdtest
+Projetos
+- Testador freelancer no projeto Nixloc (Novembro de 2019)
+
 
