@@ -19,6 +19,7 @@ Experiências:
 - Teste de usabilidade
 - Teste de regressão
 - Teste de manutenção
+- Criação de casos de teste
 
 #### Estagiário em teste de software
 abril de 2018 - agosto de 2018 (5 meses)
@@ -51,6 +52,7 @@ Separação de mercadorias.
 
 #### Freelancer na plataforma Crowdtest
 Projetos
-- Testador freelancer no projeto Nixloc (Novembro de 2019)
+- Testador no projeto Nixloc (Novembro de 2019)
+- Testador no projeto Benefícios do Itaucard (Novembro de 2019)
 
 
