@@ -1,8 +1,8 @@
 
 
 
-#### Resumo
-Estudante em análise e desenvolvimento de sistemas com objetivo
+### Resumo
+Sou estudante em análise e desenvolvimento de sistemas com objetivo
 de criar uma carreira na área de testes e qualidade de software.
 
 
@@ -30,7 +30,7 @@ Técnico de suporte em TI
 setembro de 2015 - abril de 2018 (2 anos 8 meses)
 Gravatal, SC
 Suporte aos usuário de tecnologia da informação, manutenção em
-computadores e redes locais.
+computadores e rede local.
 
 #### Coan Indústria Gráfica
 Estágio de tecnologia da informação
