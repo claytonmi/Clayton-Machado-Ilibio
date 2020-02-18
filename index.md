@@ -5,6 +5,14 @@
 Sou estudante em análise e desenvolvimento de sistemas com objetivo
 de criar uma carreira na área de testes e qualidade de software.
 
+## Freelancer
+
+#### Freelancer na plataforma Crowdtest
+Projetos
+- Tester no projeto InforMED (Janeiro de 2020)
+- Tester no projeto Livre Digital (Janeiro de 2020)
+- Tester no projeto Nixloc (Novembro de 2019)
+- Tester no projeto Benefícios do Itaucard (Novembro de 2019)
 
 ## Experiência
 
@@ -46,13 +54,4 @@ Auxiliar de produção
 junho de 2012 - dezembro de 2014 (2 anos 7 meses)
 Tubarão e Região, Brasil
 Separação de mercadorias.
-
-
-## Freelancer
-
-#### Freelancer na plataforma Crowdtest
-Projetos
-- Testador no projeto Nixloc (Novembro de 2019)
-- Testador no projeto Benefícios do Itaucard (Novembro de 2019)
-
 
