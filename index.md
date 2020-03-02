@@ -9,6 +9,7 @@ de criar uma carreira na área de testes e qualidade de software.
 
 #### Freelancer na plataforma Crowdtest
 Projetos
+- Tester no projeto Banco Pan (Março de 2020)
 - Tester no projeto InforMED (Janeiro de 2020)
 - Tester no projeto Livre Digital (Janeiro de 2020)
 - Tester no projeto Nixloc (Novembro de 2019)
