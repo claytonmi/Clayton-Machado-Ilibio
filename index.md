@@ -9,6 +9,13 @@ de criar uma carreira na área de testes e qualidade de software.
 
 #### Freelancer na plataforma Crowdtest
 Projetos
+- Tester no projeto RenovaBR (Janeiro 2021)
+- Tester no projeto App Crowdtest (Dezembro 2020)
+- Tester no projeto Direcional - Portal do Fornecedor (Dezembro 2020)
+- Tester no projeto BanQi (Novembro 2020)
+- Tester no projeto Central System (Outubro 2020)
+- Tester no projeto Vsoft - Pilotar (Outubro 2020)
+- Tester no projeto Fishing Trips (Outubro 2020)
 - Tester no projeto Banco Pan (Março de 2020)
 - Tester no projeto InforMED (Janeiro de 2020)
 - Tester no projeto Livre Digital (Janeiro de 2020)
@@ -18,7 +25,7 @@ Projetos
 ## Experiência
 
 #### WMW Systems Ltda.
-1 ano
+2 ano
 Auxiliar em teste de software
 setembro de 2018 - Present 
 Tubarão, Santa Catarina
