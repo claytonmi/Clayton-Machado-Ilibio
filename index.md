@@ -25,7 +25,7 @@ Projetos
 ## Experiência
 
 #### WMW Systems Ltda.
-2 ano
+3 ano
 Auxiliar em teste de software
 setembro de 2018 - Present 
 Tubarão, Santa Catarina
