@@ -27,8 +27,8 @@ Projetos
 #### WMW Systems Ltda.
 3 ano
 Auxiliar em teste de software
-setembro de 2018 - Present 
-Tubarão, Santa Catarina
+setembro de 2018 - Presente 
+Gravatal, Santa Catarina
 Experiências:
 - Teste de funcionalidade
 - Teste de performance
