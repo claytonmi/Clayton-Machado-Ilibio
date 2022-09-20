@@ -25,8 +25,8 @@ Projetos
 ## Experiência
 
 #### WMW Systems Ltda.
-3 ano
-Auxiliar em teste de software
+4 ano
+Analista de teste de software
 setembro de 2018 - Presente 
 Gravatal, Santa Catarina
 Experiências:
