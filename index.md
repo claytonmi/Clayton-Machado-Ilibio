@@ -26,7 +26,7 @@ Projetos
 
 #### WMW Systems Ltda.
 4 ano
-Analista de teste de software
+analista de teste de software
 setembro de 2018 - Presente 
 Gravatal, Santa Catarina
 Experiências:
