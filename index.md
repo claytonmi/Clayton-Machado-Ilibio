@@ -26,7 +26,7 @@ Projetos
 ## Experiência
 
 #### WMW Systems Ltda.
-4 ano
+5 ano
 analista de teste de software
 setembro de 2018 - Presente 
 Gravatal, Santa Catarina
@@ -37,6 +37,7 @@ Experiências:
 - Teste de regressão
 - Teste de manutenção
 - Criação de casos de teste
+- Teste automatizados
 
 #### Estagiário em teste de software
 abril de 2018 - agosto de 2018 (5 meses)
