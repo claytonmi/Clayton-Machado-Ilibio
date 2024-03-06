@@ -2,12 +2,13 @@
 
 
 ### Resumo
-Sou estudante em análise e desenvolvimento de sistemas com objetivo
-de criar uma carreira na área de testes e qualidade de software.
+Sou formado em Análise e Desenvolvimento de Sistemas, dedicado a construir uma carreira sólida na área de Testes e Qualidade de Software.
 
 ## Freelancer
 
 #### Freelancer na plataforma Crowdtest
+Atuei como freelancer na plataforma Crowdtest, onde tive a oportunidade de contribuir para diversos projetos significativos. Minha trajetória inclui:
+
 Projetos
 - Tester no projeto RenovaBR (Janeiro 2021)
 - Tester no projeto App Crowdtest (Dezembro 2020)
