@@ -26,8 +26,8 @@ Projetos
 ## Experiência
 
 #### WMW Systems Ltda.
-6 ano
-Analista de desenvolvimento de sistemas
+6 ano como
+analista de desenvolvimento de sistemas
 setembro de 2018 - Presente 
 Gravatal, Santa Catarina
 Experiências:
