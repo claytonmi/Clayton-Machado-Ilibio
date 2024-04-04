@@ -46,9 +46,9 @@ Atuei como freelancer na plataforma Crowdtest, contribuindo para diversos projet
 - **Período:** Julho 2016 - Janeiro 2017
 - **Local:** Tubarão e Região, Brasil
 ##### Responsabilidades:
- - Suporte aos usuários
- - Manutenção de computadores
- - Manutenção de redes locais
+  - Suporte aos usuários
+  - Manutenção de computadores
+  - Manutenção de redes locais
 
 ### Educação
 - Análise e Desenvolvimento de Sistemas (Formado)
@@ -70,4 +70,4 @@ Atuei como freelancer na plataforma Crowdtest, contribuindo para diversos projet
 - **Período:** Junho 2012 - Dezembro 2014
 - **Local:** Tubarão e Região, Brasil
 ##### Responsabilidades:
- - Separação de mercadorias
+  - Separação de mercadorias
