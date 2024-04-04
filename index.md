@@ -24,7 +24,7 @@ Atuei como freelancer na plataforma Crowdtest, contribuindo para diversos projet
 - **Cargo:** Analista de Desenvolvimento de Sistemas
 - **Período:** Setembro 2018 - Presente
 - **Local:** Gravatal, Santa Catarina
-##### Responsabilidades:
+#### Responsabilidades:
   - Teste de funcionalidade
   - Teste de performance
   - Teste de usabilidade
@@ -37,7 +37,7 @@ Atuei como freelancer na plataforma Crowdtest, contribuindo para diversos projet
 - **Cargo:** Técnico de Suporte em TI
 - **Período:** Setembro 2015 - Abril 2018
 - **Local:** Gravatal, Santa Catarina
-##### Responsabilidades:
+#### Responsabilidades:
   - Suporte aos usuários de tecnologia da informação
   - Manutenção em computadores e rede local
 
@@ -45,12 +45,12 @@ Atuei como freelancer na plataforma Crowdtest, contribuindo para diversos projet
 - **Cargo:** Estagiário em Tecnologia da Informação
 - **Período:** Julho 2016 - Janeiro 2017
 - **Local:** Tubarão e Região, Brasil
-##### Responsabilidades:
+#### Responsabilidades:
   - Suporte aos usuários
   - Manutenção de computadores
   - Manutenção de redes locais
 
-### Educação
+## Educação
 - Análise e Desenvolvimento de Sistemas (Formado)
 - Técnico em Informática (Formado)
 
@@ -69,5 +69,5 @@ Atuei como freelancer na plataforma Crowdtest, contribuindo para diversos projet
 - **Cargo:** Auxiliar de Produção
 - **Período:** Junho 2012 - Dezembro 2014
 - **Local:** Tubarão e Região, Brasil
-##### Responsabilidades:
+#### Responsabilidades:
   - Separação de mercadorias
