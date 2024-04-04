@@ -37,7 +37,7 @@ Atuei como freelancer na plataforma Crowdtest, contribuindo para diversos projet
 - **Cargo:** Técnico de Suporte em TI
 - **Período:** Setembro 2015 - Abril 2018
 - **Local:** Gravatal, Santa Catarina
-#### Responsabilidades:
+##### Responsabilidades:
   - Suporte aos usuários de tecnologia da informação
   - Manutenção em computadores e rede local
 
