@@ -1,15 +1,12 @@
 
 
-
-### Resumo
+## Resumo
 Sou formado em Análise e Desenvolvimento de Sistemas, dedicado a construir uma carreira sólida na área de Testes e Qualidade de Software.
 
-## Freelancer
+## Experiência Profissional
+### Freelancer na plataforma Crowdtest
+Atuei como freelancer na plataforma Crowdtest, contribuindo para diversos projetos significativos, incluindo:
 
-#### Freelancer na plataforma Crowdtest
-Atuei como freelancer na plataforma Crowdtest, onde tive a oportunidade de contribuir para diversos projetos significativos. Minha trajetória inclui:
-
-Projetos
 - Tester no projeto RenovaBR (Janeiro 2021)
 - Tester no projeto App Crowdtest (Dezembro 2020)
 - Tester no projeto Direcional - Portal do Fornecedor (Dezembro 2020)
@@ -17,51 +14,60 @@ Projetos
 - Tester no projeto Central System (Outubro 2020)
 - Tester no projeto Vsoft - Pilotar (Outubro 2020)
 - Tester no projeto Fishing Trips (Outubro 2020)
-- Tester no projeto Banco Pan (Março de 2020)
-- Tester no projeto InforMED (Janeiro de 2020)
-- Tester no projeto Livre Digital (Janeiro de 2020)
-- Tester no projeto Nixloc (Novembro de 2019)
-- Tester no projeto Benefícios do Itaucard (Novembro de 2019)
+- Tester no projeto Banco Pan (Março 2020)
+- Tester no projeto InforMED (Janeiro 2020)
+- Tester no projeto Livre Digital (Janeiro 2020)
+- Tester no projeto Nixloc (Novembro 2019)
+- Tester no projeto Benefícios do Itaucard (Novembro 2019)
 
-## Experiência
+### WMW Systems Ltda.
+- **Cargo:** Analista de Desenvolvimento de Sistemas
+- **Período:** Setembro 2018 - Presente
+- **Local:** Gravatal, Santa Catarina
+##### Responsabilidades:
+  - Teste de funcionalidade
+  - Teste de performance
+  - Teste de usabilidade
+  - Teste de regressão
+  - Teste de manutenção
+  - Criação de casos de teste
+  - Teste automatizados
 
-#### WMW Systems Ltda.
-6 ano como
-analista de desenvolvimento de sistemas
-setembro de 2018 - Presente 
-Gravatal, Santa Catarina
-Experiências:
+### Água Mineral Gravatal
+- **Cargo:** Técnico de Suporte em TI
+- **Período:** Setembro 2015 - Abril 2018
+- **Local:** Gravatal, Santa Catarina
+#### Responsabilidades:
+  - Suporte aos usuários de tecnologia da informação
+  - Manutenção em computadores e rede local
+
+### Coan Indústria Gráfica
+- **Cargo:** Estagiário em Tecnologia da Informação
+- **Período:** Julho 2016 - Janeiro 2017
+- **Local:** Tubarão e Região, Brasil
+##### Responsabilidades:
+ - Suporte aos usuários
+ - Manutenção de computadores
+ - Manutenção de redes locais
+
+### Educação
+- Análise e Desenvolvimento de Sistemas (Formado)
+- Técnico em Informática (Formado)
+
+#### Habilidades
 - Teste de funcionalidade
 - Teste de performance
 - Teste de usabilidade
 - Teste de regressão
 - Teste de manutenção
 - Criação de casos de teste
-- Teste automatizados
+- Testes automatizados
+- Suporte em TI
 
-#### Estagiário em teste de software
-abril de 2018 - agosto de 2018 (5 meses)
-Tubarão e Região, Brasil
-
-#### Água Mineral Gravatal
-Técnico de suporte em TI
-setembro de 2015 - abril de 2018 (2 anos 8 meses)
-Gravatal, SC
-Suporte aos usuário de tecnologia da informação, manutenção em
-computadores e rede local.
-
-#### Coan Indústria Gráfica
-Estágio de tecnologia da informação
-julho de 2016 - janeiro de 2017 (7 meses)
-Tubarão e Região, Brasil
-- Suporte aos usuário
-- Manutenção de computadores
-- Manutenção de redes locais
-Experiência prática no diagnóstico e solução de problemas de computador
-
-#### Genesio A Mendes
-Auxiliar de produção
-junho de 2012 - dezembro de 2014 (2 anos 7 meses)
-Tubarão e Região, Brasil
-Separação de mercadorias.
-
+## Outras Experiências
+### Genesio A Mendes
+- **Cargo:** Auxiliar de Produção
+- **Período:** Junho 2012 - Dezembro 2014
+- **Local:** Tubarão e Região, Brasil
+##### Responsabilidades:
+ - Separação de mercadorias
